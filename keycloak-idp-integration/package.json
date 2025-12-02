@@ -1,0 +1,17 @@
+{
+  "name": "keycloak-azure-ad-integration",
+  "version": "1.0.0",
+  "description": "Pulumi TypeScript script for Keycloak Azure AD integration",
+  "main": "index.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "@pulumi/pulumi": "^3.0.0",
+    "@pulumi/keycloak": "^5.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "typescript": "^5.0.0"
+  }
+}

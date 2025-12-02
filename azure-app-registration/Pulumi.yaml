@@ -1,0 +1,3 @@
+name: entra-id-app-registration
+runtime: nodejs
+description: Automate Phase 1 - Register an Application in Microsoft Entra ID

@@ -1,0 +1,12 @@
+{
+    "name": "azure-user-roles",
+    "main": "index.ts",
+    "devDependencies": {
+        "@types/node": "^22",
+        "typescript": "^5.0.0"
+    },
+    "dependencies": {
+        "@pulumi/azuread": "^6.7.0",
+        "@pulumi/pulumi": "^3.0.0"
+    }
+}

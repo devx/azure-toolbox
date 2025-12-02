@@ -1,0 +1,3 @@
+name: keycloak-azure-ad-integration
+runtime: nodejs
+description: Keycloak Azure AD (Microsoft Entra ID) integration setup

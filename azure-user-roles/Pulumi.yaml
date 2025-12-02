@@ -1,0 +1,10 @@
+name: azure-user-roles
+description: add engineers to a subscription or change their role if it already exists
+runtime:
+  name: nodejs
+  options:
+    packagemanager: npm
+config:
+  pulumi:tags:
+    value:
+      pulumi:template: azure-typescript

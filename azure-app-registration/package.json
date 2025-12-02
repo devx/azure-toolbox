@@ -1,0 +1,17 @@
+{
+  "name": "entra-id-app-registration",
+  "version": "1.0.0",
+  "description": "Pulumi script to register an application in Microsoft Entra ID",
+  "main": "index.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "@pulumi/pulumi": "^3.0.0",
+    "@pulumi/azuread": "^5.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "typescript": "^5.0.0"
+  }
+}

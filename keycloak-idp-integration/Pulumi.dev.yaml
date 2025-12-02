@@ -1,0 +1,6 @@
+config:
+  keycloak-azure-ad-integration:realmId: "my-realm"
+  keycloak-azure-ad-integration:keycloakBaseUrl: "https://auth.example.com"
+  keycloak-azure-ad-integration:azureClientId: "your-azure-client-id"
+  keycloak-azure-ad-integration:azureClientSecret: "your-azure-client-secret"
+  keycloak-azure-ad-integration:azureTenantId: "your-azure-tenant-id"
